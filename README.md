@@ -31,7 +31,7 @@ Project ini dibuat untuk menampilkan pengalaman UI/UX premium dengan fokus pada 
 ## 📷 Preview
 
 
-![Preview](./home.png)
+![Preview](home.png)
 
 ---
 
